@@ -1,0 +1,6 @@
+{
+  "name": "Pinkii's Little Universe",
+  "description": "A romantic interactive 3D miniature universe crafted by Muhammad Ayaan for Ayra (Pinkii).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
